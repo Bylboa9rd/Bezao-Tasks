@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\myGoToFolder"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Task One"
+	}
+}
